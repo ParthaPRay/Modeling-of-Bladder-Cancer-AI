@@ -1,0 +1,6 @@
+
+Anderson-Gill recurrent-event modeling was performed using a Cox time-varying model with start-stop intervals.
+The model treated each recurrence interval as an observation and used patient ID to define repeated intervals.
+In the current lifelines implementation, robust sandwich variance estimation is not available for CoxTimeVaryingFitter;
+therefore, standard model-based confidence intervals are reported for the Anderson-Gill model.
+For clinical inference, these estimates should be interpreted cautiously because recurrent intervals within the same patient are correlated.
