@@ -43,8 +43,6 @@ Modeling-of-Bladder-Cancer-AI/
 * `bladder_survival_ai_outputs/models/`
   Saved model objects, including CoxPH, penalized Cox, Coxnet, Random Survival Forest, and exploratory DeepSurv-related files.
 
-* `figures/`
-  Additional figure files prepared for manuscript or supplementary use.
 
 ---
 
@@ -68,6 +66,8 @@ The analysis is intended as a methodological and benchmarking framework. It shou
 ## Dataset
 
 The notebook uses the Kaggle bladder cancer recurrence dataset. During execution, the notebook searches and downloads the dataset through the Kaggle API.
+
+Dataset used: The study used the Kaggle Bladder Cancer Recurrence Dataset available at: https://www.kaggle.com/datasets/utkarshx27/bladder-cancer-recurrences
 
 Expected dataset files:
 
