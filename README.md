@@ -21,12 +21,12 @@ Modeling-of-Bladder-Cancer-AI/
 ├── README.md
 │
 ├── bladder_survival_ai_outputs/
-│   ├── figures/
-│   ├── models/
-│   ├── tables/
-│   └── anderson_gill_methodological_note.txt
-│
-└── figures/
+   ├── figures/
+   ├── models/
+   ├── tables/
+   └── anderson_gill_methodological_note.txt
+
+
 ```
 
 ### Main Components
