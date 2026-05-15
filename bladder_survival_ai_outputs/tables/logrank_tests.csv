@@ -1,0 +1,5 @@
+Test,Test statistic,p-value,Degrees of freedom
+Logrank,2.12063,0.34635,2
+Weighted logrank: wilcoxon,0.9859,0.61082,2
+Weighted logrank: tarone-ware,1.4869,0.47547,2
+Weighted logrank: peto,1.29727,0.52276,2

@@ -1,0 +1,6 @@
+Model,Primary evaluation,Value,Interpretation
+CoxPH / Penalized Cox,Test C-index,0.6925,Interpretable semi-parametric survival model
+Elastic-net Coxnet,Test C-index,0.6901,Regularized linear survival model
+Random Survival Forest,Test C-index,0.7148,Nonlinear ensemble survival model
+DeepSurv-style Neural CoxPH,Antolini C-index,0.6643,Exploratory neural survival model; use cautiously for small data
+Random Survival Forest,Integrated Brier Score,0.3078,Lower is better; assesses survival probability accuracy

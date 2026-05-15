@@ -1,0 +1,25 @@
+Treatment,Time,Recurrence-free survival
+Placebo,3,0.7395
+Placebo,6,0.6498
+Placebo,9,0.581
+Placebo,12,0.5092
+Placebo,18,0.4328
+Placebo,24,0.4328
+Placebo,36,0.2849
+Placebo,48,0.2849
+Thiotepa,3,0.808
+Thiotepa,6,0.6687
+Thiotepa,9,0.6687
+Thiotepa,12,0.6687
+Thiotepa,18,0.605
+Thiotepa,24,0.5357
+Thiotepa,36,0.4911
+Thiotepa,48,0.4464
+Pyridoxine,3,0.7684
+Pyridoxine,6,0.665
+Pyridoxine,9,0.5911
+Pyridoxine,12,0.5517
+Pyridoxine,18,0.5517
+Pyridoxine,24,0.5517
+Pyridoxine,36,0.5517
+Pyridoxine,48,0.3678

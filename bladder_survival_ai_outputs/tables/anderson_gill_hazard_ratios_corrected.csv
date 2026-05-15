@@ -1,0 +1,4 @@
+Variable,HR,HR_lower_95,HR_upper_95,p
+number,1.13054,1.04163,1.22703,0.00332
+size,0.95066,0.85784,1.05353,0.33446
+treatment_label_Thiotepa,0.73892,0.54617,0.99968,0.04976

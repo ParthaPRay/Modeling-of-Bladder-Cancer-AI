@@ -1,0 +1,2 @@
+Model,Train C-index,Test C-index
+Elastic-net Coxnet,0.6245,0.6901

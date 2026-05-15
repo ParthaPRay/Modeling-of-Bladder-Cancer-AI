@@ -1,0 +1,4 @@
+risk_group,patients,mean_predicted_risk,observed_recurrence_rate,median_duration,mean_total_recurrences,observed_recurrence_percent
+Low risk,40,0.3799,0.3,25.5,0.9,30.0
+Intermediate risk,49,0.5711,0.5714,10.0,1.8367,57.1429
+High risk,29,0.7259,0.7586,5.0,2.1724,75.8621

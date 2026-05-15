@@ -1,0 +1,4 @@
+Treatment,patients,recurrence_events,recurrence_rate,median_time,mean_total_recurrences,median_total_recurrences,recurrence_rate_percent
+Placebo,48,29,0.604,10.0,1.812,1.0,60.417
+Pyridoxine,32,15,0.469,8.0,1.781,0.0,46.875
+Thiotepa,38,18,0.474,17.5,1.184,0.0,47.368

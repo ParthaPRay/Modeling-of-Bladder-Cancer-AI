@@ -1,0 +1,3 @@
+Model,AIC,BIC,Log-likelihood
+Poisson,450.4131,-269.7079,-220.2065
+Negative binomial,386.6125,-417.6256,-188.3063

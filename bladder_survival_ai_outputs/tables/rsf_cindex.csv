@@ -1,0 +1,2 @@
+Model,Train C-index,Test C-index
+Random Survival Forest,0.6749,0.7148

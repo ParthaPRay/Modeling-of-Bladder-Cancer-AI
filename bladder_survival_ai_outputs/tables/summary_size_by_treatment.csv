@@ -1,0 +1,4 @@
+Treatment,count,mean,std,median,min,max
+Placebo,128,2.062,1.429,1.0,1,7
+Pyridoxine,85,2.141,1.903,1.0,1,8
+Thiotepa,81,1.728,1.235,1.0,1,6

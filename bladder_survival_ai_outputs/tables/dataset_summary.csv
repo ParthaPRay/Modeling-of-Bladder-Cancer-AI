@@ -1,0 +1,4 @@
+Dataset,Rows,Columns,Unique patients,Treatments,Recurrence events,Max follow-up time,Median follow-up time
+bladder.csv,340,10,85,"Placebo, Thiotepa",340,59,25.0
+bladder1.csv,294,14,118,"Placebo, Pyridoxine, Thiotepa",189,64,23.0
+bladder2.csv,178,11,85,"Placebo, Thiotepa",178,59,20.0

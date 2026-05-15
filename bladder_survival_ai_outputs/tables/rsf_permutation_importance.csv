@@ -1,0 +1,4 @@
+Feature,Mean importance,SD importance
+number,0.11453,0.0577
+size,0.05798,0.03575
+treatment_label,0.04782,0.02621

@@ -1,0 +1,5 @@
+Variable,test_statistic,p,-log2(p)
+number,0.06878,0.79313,0.33438
+size,0.55314,0.45704,1.12961
+treatment_label_Pyridoxine,0.03414,0.85342,0.22868
+treatment_label_Thiotepa,0.33859,0.56064,0.83485
